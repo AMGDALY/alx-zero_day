@@ -1,3 +1,1 @@
-my first readme
-yes it is
-updateeed
+my first readme updted
